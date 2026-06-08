@@ -1,0 +1,20 @@
+# 핵심 GUI 및 그래픽 백엔드
+PyQt6==6.10.2
+PyQt6-Qt6==6.10.2
+PyQt6-sip==13.11.1
+
+# 컴퓨터 비전 및 딥러닝 (YOLOv8 의존성 포함)
+ultralytics==8.4.60
+ultralytics-thop==2.0.19
+opencv-python==4.9.0.80
+numpy==1.26.4
+torch==2.12.0
+torchvision==0.27.0
+pillow==12.1.1
+
+# 데이터 및 가속처리 관련 의존성 패키지
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.8
+pyyaml==6.0.3
+requests==2.32.5
